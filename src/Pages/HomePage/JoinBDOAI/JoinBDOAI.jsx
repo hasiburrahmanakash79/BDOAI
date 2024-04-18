@@ -3,11 +3,11 @@ import { FaArrowRightLong } from "react-icons/fa6";
 const JoinBDOAI = () => {
   return (
     <div>
-      <h1 className="text-5xl text-center font-bold my-10">
+      <h1 className="md:text-5xl text-3xl text-center font-bold my-10">
         Are you ready <br /> for{" "}
         <span className="text-blue-700">Collaboration</span>
       </h1>
-      <div className="grid grid-cols-2 gap-10 items-center">
+      <div className="md:grid grid-cols-2 gap-10 items-center">
         <div className="space-y-5">
           <h1 className="text-4xl">BDOAI 2024</h1>
           <p className="text-lg ">
@@ -31,7 +31,7 @@ const JoinBDOAI = () => {
           />
         </div>
       </div>
-      <div className="grid grid-cols-2 gap-10 items-center">
+      <div className="md:grid grid-cols-2 gap-10 items-center">
         <div>
           <img
             src="https://ioai-official.org/wp-content/uploads/2023/10/Untitled-design-1.png"
