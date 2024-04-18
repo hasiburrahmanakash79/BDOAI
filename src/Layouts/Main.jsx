@@ -5,7 +5,7 @@ import Nav from "../Shared/Nav/Nav";
 
 const Main = () => {
   return (
-    <div className="bg-blue-gray-50">
+    <div className="bg-[#fafafa]">
       <Nav/>
       <div className="min-h-[calc(100vh-239px)]">
         <Outlet></Outlet>
