@@ -11,8 +11,8 @@ const JoinBDOAI = () => {
         <div className="space-y-5">
           <h1 className="text-4xl">BDOAI 2024</h1>
           <p className="text-lg ">
-            The first ever edition of IOAI will take place in August 2024 in
-            Bulgaria. The competition will focus on 3 areas of AI: Natural
+            The first ever edition of BDOAI will take place in August 2024 in
+            Dhaka. The competition will focus on 3 areas of AI: Natural
             Language Processing, Machine Learning, and Computer Vision. The
             teams will compete against each other in a Scientific round and a
             Practical round.
@@ -41,13 +41,13 @@ const JoinBDOAI = () => {
         <div className="space-y-5 flex flex-col justify-end items-end text-end">
           <h1 className="text-4xl">Next steps</h1>
           <p className="text-lg ">
-          Are you ready to bring your AI aspirations to life? Explore IOAI and prepare to embark on an unforgettable AI journey!
+          Are you ready to bring your AI aspirations to life? Explore BDOAI and prepare to embark on an unforgettable AI journey!
           </p>
           <p className="text-lg">
-          Organizations from all countries are invited to apply for accreditation in order to send a national team to the competition. If you are a student, get in touch with your country representative to learn about each countries national selection process.
+          Organizations from all over the country are invited to apply for accreditation in order to send a national team to the competition. If you are a student, get in touch with your organizations representative to learn about each Organizations selection process.
           </p>
           <button className="bg-blue-700 py-3 px-5 mt-5 rounded-full flex gap-3 items-center text-white">
-            List of countries <FaArrowRightLong />
+            List of Organizations <FaArrowRightLong />
           </button>
         </div>
       </div>
