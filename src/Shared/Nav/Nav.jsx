@@ -20,7 +20,7 @@ import { Link } from "react-router-dom";
 const aboutListMenuItems = [
   {
     title: "Who is BDOAI",
-    path: "/bdoai"
+    path: "/about"
   },
   {
     title: "Team",
