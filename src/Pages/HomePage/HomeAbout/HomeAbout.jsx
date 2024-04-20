@@ -7,7 +7,7 @@ const HomeAbout = () => {
           <FaTrophy className="text-6xl text-blue-600" />
           <h1 className="text-2xl py-4 font-semibold">About</h1>
           <h1 className="text-lg">
-            IOAI is a prestigious annual competition designed for high school
+            BDOAI is a prestigious annual competition designed for high school
             students who are passionate about the exciting world of artificial
             intelligence. Our mission is to inspire and challenge young minds to
             explore the limitless possibilities of AI, fostering the next
@@ -26,7 +26,7 @@ const HomeAbout = () => {
             <FaBookOpenReader className="text-6xl text-blue-600" />
             <h1 className="text-2xl py-4 font-semibold">Who is it for</h1>
             <h1 className="text-lg">
-            At IOAI, we offer an intellectually stimulating platform where high school students from around the world can showcase their AI expertise, creativity, and problem-solving skills. Whether you are a coding prodigy, a machine learning enthusiast, or just curious about the fascinating realm of AI, IOAI welcomes you to join this thrilling journey.
+            At BDOAI, we offer an intellectually stimulating platform where high school students from around the world can showcase their AI expertise, creativity, and problem-solving skills. Whether you are a coding prodigy, a machine learning enthusiast, or just curious about the fascinating realm of AI, BDOAI welcomes you to join this thrilling journey.
             </h1>
             <button className="bg-blue-700 py-3 px-5 rounded-full flex gap-3 mt-5 items-center text-white">
               See how to participate <FaArrowRightLong />
