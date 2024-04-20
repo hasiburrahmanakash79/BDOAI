@@ -1,4 +1,5 @@
 import { FaMedal } from "react-icons/fa6";
+import OlympiadFeature from "./OlympiadFeature";
 
 const Bdoai = () => {
   return (
@@ -24,6 +25,11 @@ const Bdoai = () => {
           The aims of each ISO are to promote a career in science and to
           challenge the brightest students from around the world.
         </p>
+      </div>
+      <div>
+        <div className="divider w-1/4 mx-auto mt-10"></div>
+        <h1 className="text-4xl my-10 text-center font-bold">Format of the olympiad</h1>
+        <OlympiadFeature/>
       </div>
     </div>
   );
